@@ -60,4 +60,8 @@ npm install firebase
    import moment from 'moment';
    {moment().format("dddd, MMMM Do YYYY, h:mm:ss a")}
 
+9)React FAST Marquee(Text Slider)
+ npm install react-fast-marquee --save 
+ import Marquee from "react-fast-marquee";  
+
  
