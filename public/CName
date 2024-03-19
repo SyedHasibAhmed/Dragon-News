@@ -54,3 +54,10 @@ npm install firebase
 6. npm run dev
 
 7.front awsome poppins
+
+8.Moment.js(time DYnamic)
+   npm install moment --save
+   import moment from 'moment';
+   {moment().format("dddd, MMMM Do YYYY, h:mm:ss a")}
+
+ 
