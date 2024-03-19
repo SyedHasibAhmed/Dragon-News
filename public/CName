@@ -62,6 +62,10 @@ npm install firebase
 
 9)React FAST Marquee(Text Slider)
  npm install react-fast-marquee --save 
- import Marquee from "react-fast-marquee";  
+ import Marquee from "react-fast-marquee";
+
+10)React icons
+ npm install react-icons --save
+ import { FaBeer } from 'react-icons/fa';  
 
  
