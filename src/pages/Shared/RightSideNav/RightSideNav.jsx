@@ -27,20 +27,23 @@ const RightSideNav = () => {
       </div>
       {/* Find Us On */}
       <div className="p-4 mb-6">
-        <h2 className="text-3xl mb-4">Find Us on</h2>
+        <h2 className="text-3xl mb-4 text-center">Find Us on</h2>
         <a
-          className="p-4 flex text-lg items-center border rounded-t-lg"
+          className="p-4 flex text-lg items-center border rounded-t-lg hover:bg-sky-900"
           href=""
         >
-          <FaFacebook className="mr-3"></FaFacebook>
+          <FaFacebook className="mr-3 "></FaFacebook>
           <span>Facebook</span>
         </a>
-        <a className="p-4 flex text-lg items-center border-x" href="">
+        <a
+          className="p-4 flex text-lg items-center border-x hover:bg-sky-700"
+          href=""
+        >
           <FaTwitter className="mr-2"></FaTwitter>
           <span>Twitter</span>
         </a>
         <a
-          className="p-4 flex text-lg items-center border rounded-b-lg"
+          className="p-4 flex text-lg items-center border rounded-b-lg hover:bg-red-900"
           href=""
         >
           <FaInstagram className="mr-2"></FaInstagram>
